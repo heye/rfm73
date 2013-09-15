@@ -1,0 +1,16 @@
+rfm73	KEYWORD1
+tick	KEYWORD2
+send	KEYWORD2
+onReceive	KEYWORD2
+getRcvBuffer	KEYWORD2
+getRcvByte	KEYWORD2
+getPacketLength	KEYWORD2
+Begin	KEYWORD2
+setMode KEYWORD2
+setChannel	KEYWORD2
+sendPayload	KEYWORD2
+sendAckPayload	KEYWORD2
+receivePayload	KEYWORD2
+flushTxFIFO	KEYWORD2
+flushRxFIFO	KEYWORD2
+RFM KEYWORD2

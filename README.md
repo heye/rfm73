@@ -7,4 +7,4 @@ This is a library for the Radioduino. Designed specifically to work with the Rad
 If you need help installing this library take a look at this page:
 http://arduino.cc/en/Guide/Libraries
 
-Eagle boardfiles and schematics are available here: https://github.com/heye/radioduino
+Eagle boardfiles and schematic are available here: https://github.com/heye/radioduino

@@ -15,11 +15,13 @@
 #define RFM73_H
 
 #include <stdio.h>
-#include <WProgram.h>
+#if defined(ARDUINO) && ARDUINO >= 100
+#include "Arduino.h"
+#else
+#include "WProgram.h"
+#endif
 #include <avr/pgmspace.h>
 #include "pins_arduino.h"
-
- #include "Arduino.h"
 
 //this is new
 #define RCV_BUFFER_SIZE 32
